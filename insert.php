@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <title> ... </title>
 </head>
-<body>
+<body background="http://www.starwallpapers.com/walls/vintage_retro_motorbike_art_hd_wallpaper-HD.jpg">
   <form method="get" action="index.php">
     <table align="center" width="500">
       <tr>
@@ -23,8 +23,8 @@
         </tr>
         <td> Sex : </td>
         <td>
-          <input type="radio" name="operator" value="ชาย"> Male
-          <input type="radio" name="operator" value="หญิง"> Female
+          <input type="radio" name="operator" value="Male"> Male
+          <input type="radio" name="operator" value="Female"> Female
         </td>
       </tr>
       <tr>
