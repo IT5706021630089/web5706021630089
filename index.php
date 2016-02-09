@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <title> . . . </title>
   </head>
-  <body align="center">
+  <body align="center"
+  background="http://www.starwallpapers.com/walls/vintage_retro_motorbike_art_hd_wallpaper-HD.jpg">
     <?php
     $name1 = $_GET['name1'];
     $name2 = $_GET['name2'];
@@ -39,7 +40,7 @@
     echo "Education : <i> $school </i> <br/>";
 
     echo "Academy : <i> $nameschool </i> <br/>";
-    
+
     echo "Hobby : <i> $hobby </i> <br/>";
 
     if(strlen($phone) == 10)
